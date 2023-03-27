@@ -1,0 +1,1 @@
+/usr/bin/clang++     CMakeFiles/a.out.gtest.dir/gtest/gtestmain.cpp.o CMakeFiles/a.out.gtest.dir/gtest/stacktests.cpp.o CMakeFiles/a.out.gtest.dir/gtest/verifiertests.cpp.o CMakeFiles/a.out.gtest.dir/app/postfixCalc.cpp.o CMakeFiles/a.out.gtest.dir/app/verifySol.cpp.o  -o bin/a.out.gtest  -lpthread -lc++ -lgtest -lgtest_main 

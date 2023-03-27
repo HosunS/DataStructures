@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/anteater/Desktop/Project0/project0/app/LLStack.hpp
+runtimeexcept.hpp
+/home/anteater/Desktop/Project0/project0/app/runtimeexcept.hpp
+
+/home/anteater/Desktop/Project0/project0/app/postfixCalc.cpp
+postfixCalc.hpp
+/home/anteater/Desktop/Project0/project0/app/postfixCalc.hpp
+LLStack.hpp
+/home/anteater/Desktop/Project0/project0/app/LLStack.hpp
+
+/home/anteater/Desktop/Project0/project0/app/postfixCalc.hpp
+runtimeexcept.hpp
+/home/anteater/Desktop/Project0/project0/app/runtimeexcept.hpp
+string
+-
+vector
+-
+
+/home/anteater/Desktop/Project0/project0/app/runtimeexcept.hpp
+string
+-
+
