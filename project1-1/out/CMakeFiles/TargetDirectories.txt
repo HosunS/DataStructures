@@ -1,0 +1,4 @@
+/home/anteater/Desktop/Project1/project1-1/out/CMakeFiles/rebuild_cache.dir
+/home/anteater/Desktop/Project1/project1-1/out/CMakeFiles/a.out.gtest.dir
+/home/anteater/Desktop/Project1/project1-1/out/CMakeFiles/edit_cache.dir
+/home/anteater/Desktop/Project1/project1-1/out/CMakeFiles/a.out.app.dir
