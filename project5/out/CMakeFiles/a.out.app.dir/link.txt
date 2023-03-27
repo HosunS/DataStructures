@@ -1,0 +1,1 @@
+/usr/bin/clang++     CMakeFiles/a.out.app.dir/app/convert.cpp.o CMakeFiles/a.out.app.dir/app/main.cpp.o  -o bin/a.out.app  -Wl,-rpath,/home/anteater/Desktop/project5/lib/x86_64 -lpthread -lc++ ../lib/x86_64/libverifier.so 

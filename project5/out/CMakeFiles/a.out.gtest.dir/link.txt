@@ -1,0 +1,1 @@
+/usr/bin/clang++     CMakeFiles/a.out.gtest.dir/gtest/gtestmain.cpp.o CMakeFiles/a.out.gtest.dir/gtest/proj5tests.cpp.o CMakeFiles/a.out.gtest.dir/app/convert.cpp.o  -o bin/a.out.gtest  -Wl,-rpath,/home/anteater/Desktop/project5/lib/x86_64 -lpthread -lc++ ../lib/x86_64/libverifier.so -lgtest -lgtest_main 
