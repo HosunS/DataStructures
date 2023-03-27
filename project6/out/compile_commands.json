@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/home/anteater/Desktop/project6/out",
+  "command": "/usr/bin/clang++   -I/home/anteater/Desktop/project6/app -I/home/anteater/Desktop/project6/gtest -I/home/anteater/Desktop/project6/include    -stdlib=libc++ -Wall -pedantic-errors -Werror -g -fstandalone-debug -O0 -std=c++17 -o CMakeFiles/a.out.gtest.dir/gtest/gtestmain.cpp.o -c /home/anteater/Desktop/project6/gtest/gtestmain.cpp",
+  "file": "/home/anteater/Desktop/project6/gtest/gtestmain.cpp"
+},
+{
+  "directory": "/home/anteater/Desktop/project6/out",
+  "command": "/usr/bin/clang++   -I/home/anteater/Desktop/project6/app -I/home/anteater/Desktop/project6/gtest -I/home/anteater/Desktop/project6/include    -stdlib=libc++ -Wall -pedantic-errors -Werror -g -fstandalone-debug -O0 -std=c++17 -o CMakeFiles/a.out.gtest.dir/gtest/test1.cpp.o -c /home/anteater/Desktop/project6/gtest/test1.cpp",
+  "file": "/home/anteater/Desktop/project6/gtest/test1.cpp"
+},
+{
+  "directory": "/home/anteater/Desktop/project6/out",
+  "command": "/usr/bin/clang++   -I/home/anteater/Desktop/project6/app -I/home/anteater/Desktop/project6/gtest -I/home/anteater/Desktop/project6/include    -stdlib=libc++ -Wall -pedantic-errors -Werror -g -fstandalone-debug -O0 -std=c++17 -o CMakeFiles/a.out.gtest.dir/gtest/verifier.cpp.o -c /home/anteater/Desktop/project6/gtest/verifier.cpp",
+  "file": "/home/anteater/Desktop/project6/gtest/verifier.cpp"
+},
+{
+  "directory": "/home/anteater/Desktop/project6/out",
+  "command": "/usr/bin/clang++   -I/home/anteater/Desktop/project6/app -I/home/anteater/Desktop/project6/gtest -I/home/anteater/Desktop/project6/include    -stdlib=libc++ -Wall -pedantic-errors -Werror -g -fstandalone-debug -O0 -std=c++17 -o CMakeFiles/a.out.gtest.dir/app/CSVReader.cpp.o -c /home/anteater/Desktop/project6/app/CSVReader.cpp",
+  "file": "/home/anteater/Desktop/project6/app/CSVReader.cpp"
+},
+{
+  "directory": "/home/anteater/Desktop/project6/out",
+  "command": "/usr/bin/clang++   -I/home/anteater/Desktop/project6/app -I/home/anteater/Desktop/project6/gtest -I/home/anteater/Desktop/project6/include    -stdlib=libc++ -Wall -pedantic-errors -Werror -g -fstandalone-debug -O0 -std=c++17 -o CMakeFiles/a.out.gtest.dir/app/IGWriter.cpp.o -c /home/anteater/Desktop/project6/app/IGWriter.cpp",
+  "file": "/home/anteater/Desktop/project6/app/IGWriter.cpp"
+},
+{
+  "directory": "/home/anteater/Desktop/project6/out",
+  "command": "/usr/bin/clang++   -I/home/anteater/Desktop/project6/app -I/home/anteater/Desktop/project6/gtest -I/home/anteater/Desktop/project6/include    -stdlib=libc++ -Wall -pedantic-errors -Werror -g -fstandalone-debug -O0 -std=c++17 -o CMakeFiles/a.out.gtest.dir/app/proj6.cpp.o -c /home/anteater/Desktop/project6/app/proj6.cpp",
+  "file": "/home/anteater/Desktop/project6/app/proj6.cpp"
+},
+{
+  "directory": "/home/anteater/Desktop/project6/out",
+  "command": "/usr/bin/clang++   -I/home/anteater/Desktop/project6/app -I/home/anteater/Desktop/project6/include    -stdlib=libc++ -Wall -pedantic-errors -Werror -g -fstandalone-debug -O0 -std=c++17 -o CMakeFiles/a.out.app.dir/app/CSVReader.cpp.o -c /home/anteater/Desktop/project6/app/CSVReader.cpp",
+  "file": "/home/anteater/Desktop/project6/app/CSVReader.cpp"
+},
+{
+  "directory": "/home/anteater/Desktop/project6/out",
+  "command": "/usr/bin/clang++   -I/home/anteater/Desktop/project6/app -I/home/anteater/Desktop/project6/include    -stdlib=libc++ -Wall -pedantic-errors -Werror -g -fstandalone-debug -O0 -std=c++17 -o CMakeFiles/a.out.app.dir/app/IGWriter.cpp.o -c /home/anteater/Desktop/project6/app/IGWriter.cpp",
+  "file": "/home/anteater/Desktop/project6/app/IGWriter.cpp"
+},
+{
+  "directory": "/home/anteater/Desktop/project6/out",
+  "command": "/usr/bin/clang++   -I/home/anteater/Desktop/project6/app -I/home/anteater/Desktop/project6/include    -stdlib=libc++ -Wall -pedantic-errors -Werror -g -fstandalone-debug -O0 -std=c++17 -o CMakeFiles/a.out.app.dir/app/main.cpp.o -c /home/anteater/Desktop/project6/app/main.cpp",
+  "file": "/home/anteater/Desktop/project6/app/main.cpp"
+},
+{
+  "directory": "/home/anteater/Desktop/project6/out",
+  "command": "/usr/bin/clang++   -I/home/anteater/Desktop/project6/app -I/home/anteater/Desktop/project6/include    -stdlib=libc++ -Wall -pedantic-errors -Werror -g -fstandalone-debug -O0 -std=c++17 -o CMakeFiles/a.out.app.dir/app/proj6.cpp.o -c /home/anteater/Desktop/project6/app/proj6.cpp",
+  "file": "/home/anteater/Desktop/project6/app/proj6.cpp"
+}
+]

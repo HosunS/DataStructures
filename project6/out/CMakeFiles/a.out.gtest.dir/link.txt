@@ -1,0 +1,1 @@
+/usr/bin/clang++     CMakeFiles/a.out.gtest.dir/gtest/gtestmain.cpp.o CMakeFiles/a.out.gtest.dir/gtest/test1.cpp.o CMakeFiles/a.out.gtest.dir/gtest/verifier.cpp.o CMakeFiles/a.out.gtest.dir/app/CSVReader.cpp.o CMakeFiles/a.out.gtest.dir/app/IGWriter.cpp.o CMakeFiles/a.out.gtest.dir/app/proj6.cpp.o  -o bin/a.out.gtest  -lpthread -lc++ -lgtest -lgtest_main 

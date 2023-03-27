@@ -1,0 +1,17 @@
+graph {
+graph [layout=circo]
+a [style="filled", fillcolor=lightsalmon]
+c [style="filled", fillcolor=lightsalmon]
+x [style="filled", fillcolor=lightpink]
+b [style="filled", fillcolor=lightsalmon]
+d [style="filled", fillcolor=lightsalmon]
+y [style="filled", fillcolor=lightpink]
+a -- x
+a -- y
+c -- x
+c -- y
+x -- b
+x -- d
+b -- y
+d -- y
+}

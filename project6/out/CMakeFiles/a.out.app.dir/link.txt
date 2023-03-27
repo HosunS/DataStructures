@@ -1,0 +1,1 @@
+/usr/bin/clang++     CMakeFiles/a.out.app.dir/app/CSVReader.cpp.o CMakeFiles/a.out.app.dir/app/IGWriter.cpp.o CMakeFiles/a.out.app.dir/app/main.cpp.o CMakeFiles/a.out.app.dir/app/proj6.cpp.o  -o bin/a.out.app  -lc++ 

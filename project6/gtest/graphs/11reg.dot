@@ -1,0 +1,44 @@
+graph {
+graph [layout=circo]
+9 [style="filled", fillcolor=lightpink]
+6 [style="filled", fillcolor=lightsteelblue1]
+4 [style="filled", fillcolor=lightskyblue4]
+10 [style="filled", fillcolor=lightsalmon]
+8 [style="filled", fillcolor=lightpink]
+0 [style="filled", fillcolor=lightseagreen]
+5 [style="filled", fillcolor=lightpink]
+7 [style="filled", fillcolor=lightseagreen]
+3 [style="filled", fillcolor=lightskyblue4]
+2 [style="filled", fillcolor=lightsalmon]
+1 [style="filled", fillcolor=lightseagreen]
+9 -- 4
+9 -- 3
+9 -- 2
+9 -- 7
+6 -- 3
+6 -- 4
+6 -- 2
+6 -- 0
+6 -- 5
+4 -- 0
+4 -- 2
+4 -- 10
+4 -- 5
+10 -- 5
+10 -- 0
+10 -- 8
+10 -- 3
+8 -- 0
+8 -- 1
+0 -- 3
+0 -- 2
+0 -- 5
+5 -- 7
+5 -- 3
+5 -- 1
+5 -- 2
+7 -- 3
+7 -- 2
+3 -- 2
+2 -- 1
+}
