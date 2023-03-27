@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../app/LevelBalancedTree.hpp
+runtimeexcept.hpp
+../app/runtimeexcept.hpp
+string
+-
+vector
+-
+
+../app/runtimeexcept.hpp
+string
+-
+
+/home/anteater/Desktop/project4/project4/gtest/tests1.cpp
+gtest/gtest.h
+/home/anteater/Desktop/project4/project4/gtest/gtest/gtest.h
+LevelBalancedTree.hpp
+/home/anteater/Desktop/project4/project4/gtest/LevelBalancedTree.hpp
+string
+-
+sstream
+-
+vector
+-
+
