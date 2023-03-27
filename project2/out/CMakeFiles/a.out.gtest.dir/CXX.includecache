@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../app/SkipList.hpp
+cmath
+-
+string
+-
+vector
+-
+runtimeexcept.hpp
+../app/runtimeexcept.hpp
+iostream
+-
+
+../app/runtimeexcept.hpp
+string
+-
+
+/home/anteater/Desktop/Project2/project2/gtest/NotRequiredSkip.cpp
+gtest/gtest.h
+/home/anteater/Desktop/Project2/project2/gtest/gtest/gtest.h
+vector
+-
+SkipList.hpp
+/home/anteater/Desktop/Project2/project2/gtest/SkipList.hpp
+
+/home/anteater/Desktop/Project2/project2/gtest/RequiredSkip.cpp
+gtest/gtest.h
+/home/anteater/Desktop/Project2/project2/gtest/gtest/gtest.h
+vector
+-
+SkipList.hpp
+/home/anteater/Desktop/Project2/project2/gtest/SkipList.hpp
+
