@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../app/puzzleSolver.hpp
+unordered_map
+-
+string
+-
+iostream
+-
+
+../include/ver.hpp
+string
+-
+unordered_map
+-
+
+/home/anteater/Desktop/Project1/project1/gtest/puzzletests.cpp
+gtest/gtest.h
+/home/anteater/Desktop/Project1/project1/gtest/gtest/gtest.h
+puzzleSolver.hpp
+/home/anteater/Desktop/Project1/project1/gtest/puzzleSolver.hpp
+ver.hpp
+/home/anteater/Desktop/Project1/project1/gtest/ver.hpp
+unordered_map
+-
+string
+-
+
