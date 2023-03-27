@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/anteater/Desktop/Project3/project3/app/Wordset.cpp
+Wordset.hpp
+/home/anteater/Desktop/Project3/project3/app/Wordset.hpp
+string
+-
+cmath
+-
+
+/home/anteater/Desktop/Project3/project3/app/Wordset.hpp
+string
+-
+

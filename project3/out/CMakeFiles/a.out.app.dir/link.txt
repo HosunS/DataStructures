@@ -1,0 +1,1 @@
+/usr/bin/clang++     CMakeFiles/a.out.app.dir/app/Wordset.cpp.o CMakeFiles/a.out.app.dir/app/convert.cpp.o CMakeFiles/a.out.app.dir/app/main.cpp.o  -o bin/a.out.app  -Wl,-rpath,/home/anteater/Desktop/Project3/project3/lib/x86_64 -lpthread -lc++ ../lib/x86_64/libverifier.so 
